@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- siege letters -->
+  <RimSiege_LabelFootAssault>Середньовічний штурм</RimSiege_LabelFootAssault>
+  <RimSiege_TextFootAssault>Загін чисельністю {0} розбиває табір за вашими мурами та готується до пішого штурму. Цього разу без облогових машин — тримайте оборону й відбийте їхню атаку.</RimSiege_TextFootAssault>
+  <RimSiege_LabelTower>Облога: штурмова вежа</RimSiege_LabelTower>
+  <RimSiege_TextTower>Загін чисельністю {0} розбиває табір за вашими мурами та будує ОБЛОГОВУ ВЕЖУ. Коли її буде завершено, вороги підкотять її до вашого муру й перекидатимуть нападників через верх. Знищте будівельний майданчик, перш ніж вони завершать роботу.</RimSiege_TextTower>
+  <RimSiege_LabelRam>Середньовічна облога</RimSiege_LabelRam>
+  <RimSiege_TextRam>Загін чисельністю {0} розбиває табір за вашими мурами. Вони будують ТАРАН, щоб пробити вашу браму. Зробіть вилазку й зірвіть будівництво — убивайте будівельників, спаліть креслення та припаси — або готуйтеся обороняти пролом.</RimSiege_TextRam>
+  <RimSiege_LabelLogRam>Племінна облога: колодяний таран</RimSiege_LabelLogRam>
+  <RimSiege_TextLogRam>Загін чисельністю {0} розбиває табір за вашими мурами. Вони зв'язують КОЛОДЯНИЙ ТАРАН: четверо воїнів нестимуть його бігом до вашої брами й битимуть нею, доки вона не впаде. Атакуйте табір, перш ніж вони завершать роботу, або готуйтеся обороняти пролом.</RimSiege_TextLogRam>
+  <RimSiege_LabelLadder>Племінна облога: драбина</RimSiege_LabelLadder>
+  <RimSiege_TextLadder>Загін чисельністю {0} розбиває табір за вашими мурами та майструє ОБЛОГОВУ ДРАБИНУ. Двоє воїнів піднесуть її до муру, після чого весь загін по черзі перелізе через стіну. Знищте будівельний майданчик, перш ніж вони завершать роботу.</RimSiege_TextLadder>
+  <RimSiege_LabelSteelRam>Облога: проломний таран</RimSiege_LabelSteelRam>
+  <RimSiege_LabelLaserRam>Облога: лазерний таран</RimSiege_LabelLaserRam>
+  <RimSiege_TextLaserRam>Загін чисельністю {0} розбиває табір за вашими мурами. Вони будують ЛАЗЕРНИЙ ТАРАН — величезну бурову гармату, яку четверо воїнів підкотять до вашої брами. Він подає сигнал тривоги, кілька секунд заряджається, а потім спрямовує промінь на браму, доки не проб'є її, спалюючи все й усіх на своєму шляху. Убийте екіпаж — і машина зупиниться. Атакуйте табір, перш ніж вони будуть готові, або готуйтеся обороняти пролом.</RimSiege_TextLaserRam>
+  <RimSiege_TextSteelRam>Загін чисельністю {0} розбиває табір за вашими мурами. Вони принесли сталевий ПРОЛОМНИЙ ТАРАН: двоє воїнів донесуть його до вашої брами й виб'ють її. Атакуйте табір, перш ніж вони будуть готові, або готуйтеся обороняти пролом.</RimSiege_TextSteelRam>
+  <RimSiege_TrebOne>Требушет підтримуватиме штурм здалеку.</RimSiege_TrebOne>
+  <RimSiege_TrebMany>Батарея з {0} требушетів обстрілюватиме ваші мури здалеку.</RimSiege_TrebMany>
+  <RimSiege_MortarOne>Міномет обстрілюватиме вашу базу з ворожого табору.</RimSiege_MortarOne>
+  <RimSiege_MortarMany>Батарея з {0} мінометів обстрілюватиме вашу базу з ворожого табору.</RimSiege_MortarMany>
+  <RimSiege_LaserOne>Лазерна батарея обстрілюватиме вашу базу з ворожого табору. Вона працює від енергетичних елементів, які лежать поруч: заберіть їх — і батарея замовкне.</RimSiege_LaserOne>
+  <RimSiege_LaserMany>{0} лазерних батарей обстрілюватимуть вашу базу з ворожого табору. Вони працюють від енергетичних елементів, які лежать поруч: заберіть їх — і батареї замовкнуть.</RimSiege_LaserMany>
+  <RimSiege_SmokeHint>Коли таран піде в атаку, очікуйте димових снарядів по вашій брамі.</RimSiege_SmokeHint>
+  <RimSiege_BallistaHint>Ворожий табір охоронятимуть балісти — під час вилазки ви потрапите під обстріл болтами.</RimSiege_BallistaHint>
+  <RimSiege_BombardBegins>Облогові машини готові. Починається бомбардування.</RimSiege_BombardBegins>
+  <RimSiege_SappersHint>Сапери спробують підірвати ще один пролом в іншій частині вашого муру.</RimSiege_SappersHint>
+  <RimSiege_CaptainHint>Їхнім військом командує капітан {0} — шукайте його за позолоченим шоломом і двома охоронцями. Убийте капітана якомога раніше, і облога розпадеться.</RimSiege_CaptainHint>
+  <RimSiege_CaptainHintPlain>Їхнім військом командує капітан {0}. Убийте його якомога раніше, і облога розпадеться.</RimSiege_CaptainHintPlain>
+  <RimSiege_CaptainHintTribal>Їхнім військом командує капітан {0} — шукайте його за головним убором із пір'ям і двома охоронцями. Убийте капітана якомога раніше, і облога розпадеться.</RimSiege_CaptainHintTribal>
+  <RimSiege_CaptainFell>{0} загинув — обложники втратили бойовий дух і згортають табір!</RimSiege_CaptainFell>
+
+  <!-- ultimatum -->
+  <RimSiege_UltimatumLabel>Ультиматум: данина або облога</RimSiege_UltimatumLabel>
+  <RimSiege_UltimatumText>Загін чисельністю {0} розбив табір неподалік від ваших мурів і вимагає данину в розмірі {1} срібла.\n\nЗаплатіть — і вони без бою згорнуть табір. Облоги не буде.\nВідмовтеся (або пропустіть кінцевий термін) — і почнеться облога: вороги побудують облогові машини та підуть на штурм ваших мурів.\n\nУ вас є лише кілька годин, щоб ухвалити рішення.</RimSiege_UltimatumText>
+  <RimSiege_TributePaid>Данину сплачено ({0} срібла). {1} згортає табір.</RimSiege_TributePaid>
+  <RimSiege_PayOption>Сплатити данину ({0} срібла)</RimSiege_PayOption>
+  <RimSiege_NotEnoughSilver>Недостатньо срібла у вашій житловій зоні або сховищі (потрібно {0}, наявно {1}).</RimSiege_NotEnoughSilver>
+  <RimSiege_DefyOption>Кинути їм виклик — нехай ідуть</RimSiege_DefyOption>
+  <RimSiege_LateLabel>Остання пропозиція: данина або штурм мурів</RimSiege_LateLabel>
+  <RimSiege_LateText>Облогові машини {0} вже готові. Їхній посланець робить останню пропозицію: {1} срібла — і військо згорне табір, залишивши машини на місці.\n\nЦіна зросла. Як і ціна відмови.</RimSiege_LateText>
+  <RimSiege_LateTributePaid>Запізнілу данину сплачено ({0} срібла). {1} згортає табір і кидає облогові машини.</RimSiege_LateTributePaid>
+  <RimSiege_LateTooLate>Запізно — вороги вже всередині ваших мурів.</RimSiege_LateTooLate>
+  <RimSiege_ReinforceLabel>Підкріплення</RimSiege_ReinforceLabel>
+  <RimSiege_ReinforceText>Ще {0} бійців прибули пішим маршем, щоб приєднатися до облогового табору {1}.</RimSiege_ReinforceText>
+  <RimSiege_ReinforceShuttleText>Ще {0} бійців прибули на шатлі, щоб приєднатися до облогового табору {1}.</RimSiege_ReinforceShuttleText>
+  <RimSiege_UltimatumPaidBefore>\n\nЧутки про ваше багатство розійшлися. Ціна зросла.</RimSiege_UltimatumPaidBefore>
+
+  <!-- captain ransom -->
+  <RimSiege_RansomLabel>Пропозиція викупу: {0}</RimSiege_RansomLabel>
+  <RimSiege_RansomText>{0} хоче повернути свого капітана. {1} перебуває у вашій в'язниці, і його родина пропонує {2} срібла за його безпечне повернення.\n\nПогодьтеся — і за полоненим прибуде загін для перемовин під білим прапором. Передайте їм капітана (ваші наглядачі подбають про це), і срібло буде вашим.\nВідмовтеся — і капітан залишиться вашим бранцем.\n\nАбо відрубайте йому голову — і прийміть наслідки.</RimSiege_RansomText>
+  <RimSiege_RansomAccept>Прийняти викуп ({0} срібла)</RimSiege_RansomAccept>
+  <RimSiege_RansomRefuse>Залишити капітана в полоні</RimSiege_RansomRefuse>
+  <RimSiege_RansomExecute>Стратити капітана</RimSiege_RansomExecute>
+  <RimSiege_EnvoysComing>Загін для перемовин від {0} прямує, щоб забрати {1}.</RimSiege_EnvoysComing>
+  <RimSiege_RansomPaid>Викуп сплачено: {0} срібла. {1} повертається додому.</RimSiege_RansomPaid>
+  <RimSiege_RansomFailed>Посланці пішли без свого капітана. Пропозиція більше не чинна.</RimSiege_RansomFailed>
+  <RimSiege_EnvoysBetrayed>На загін для перемовин напали під білим прапором. Звістка про це розлетиться світом.</RimSiege_EnvoysBetrayed>
+  <RimSiege_VendettaLabel>Помста: {0}</RimSiege_VendettaLabel>
+  <RimSiege_VendettaText>{0} присягнули помститися за {1}. Вони прийдуть, і перемовин не буде.</RimSiege_VendettaText>
+  <RimSiege_VendettaHint>Це військо йде помститися за {0}. Вони прийшли не для переговорів.</RimSiege_VendettaHint>
+  <RimSiege_CaptainDiedCustody>{0} помер у вашому полоні. {1} покладає на вас відповідальність.</RimSiege_CaptainDiedCustody>
+  <RimSiege_CaptainFreed>Ви звільнили {0}, нічого не попросивши натомість. {1} певний час пам'ятатиме цей жест.</RimSiege_CaptainFreed>
+  <RimSiege_PickExecutioner>Хто завдасть удару?</RimSiege_PickExecutioner>
+  <RimSiege_ExecutionerOption>{0} (ближній бій {1})</RimSiege_ExecutionerOption>
+  <RimSiege_FlingOption>Запустити капітана катапультою за мури (виконавець — {0})</RimSiege_FlingOption>
+  <RimSiege_Flung>{0} злетів за мури.</RimSiege_Flung>
+  <RimSiege_ExecutionOrdered>{0} вирушає стратити {1}. Б'ють барабани.</RimSiege_ExecutionOrdered>
+  <RimSiege_CaptainExecuted>{0} страчено. {1} цього не забуде.</RimSiege_CaptainExecuted>
+
+  <!-- mod settings -->
+  <RimSiege_SecParley>Перемовини</RimSiege_SecParley>
+  <RimSiege_SecHost>Військо</RimSiege_SecHost>
+  <RimSiege_SecTrain>Облоговий обоз</RimSiege_SecTrain>
+
+  <RimSiege_SetUltimatum>Ультиматум (данина) перед облогою</RimSiege_SetUltimatum>
+  <RimSiege_SetUltimatumTip>Обложники вимагають данину перед нападом. Якщо вимкнути — облога почнеться негайно.</RimSiege_SetUltimatumTip>
+  <RimSiege_SetTribute>Розмір данини: {0} × очки загрози (у межах 200–5000)</RimSiege_SetTribute>
+  <RimSiege_SetHours>Час на ухвалення рішення: {0} год</RimSiege_SetHours>
+  <RimSiege_SetEngineFloor>Мінімум очок загрози для облогової машини (тарана/вежі): {0}</RimSiege_SetEngineFloor>
+  <RimSiege_SetTrebFloor>Мінімум очок загрози для требушетів: {0}</RimSiege_SetTrebFloor>
+  <RimSiege_SetMaxTrebs>Максимальна кількість требушетів або мінометів: {0}</RimSiege_SetMaxTrebs>
+  <RimSiege_SetSapperFloor>Мінімум очок загрози для саперів: {0}</RimSiege_SetSapperFloor>
+  <RimSiege_SetMaxSappers>Максимальна кількість саперів: {0}</RimSiege_SetMaxSappers>
+  <RimSiege_SetBallistaFloor>Мінімум очок загрози для баліст у таборі: {0}</RimSiege_SetBallistaFloor>
+  <RimSiege_SetMaxBallistas>Максимальна кількість баліст: {0}</RimSiege_SetMaxBallistas>
+  <RimSiege_SetBombard>Тривалість обстрілу перед штурмом: {0} год</RimSiege_SetBombard>
+  <RimSiege_SetTarFloor>Мінімум очок загрози для вогняних брил, вкритих дьогтем: {0}</RimSiege_SetTarFloor>
+  <RimSiege_SetCarrion>Біологічна зброя (постріли тушами)</RimSiege_SetCarrion>
+  <RimSiege_SetReinforce>Підкріплення під час обстрілу</RimSiege_SetReinforce>
+  <RimSiege_SetReinforceTip>Посеред обстрілу прибуває друга колона — приблизно третина початкового війська — і приєднується до табору. Перечекати облогу стане дорожче.</RimSiege_SetReinforceTip>
+  <RimSiege_SetReinforceFloor>Мінімум очок загрози для підкріплення: {0}</RimSiege_SetReinforceFloor>
+  <RimSiege_SetCarrionTip>Під час наймасштабніших облог (поріг для дьогтярних брил + 2000 очок) вороги закидають за ваші мури гнилі туші: хмари смороду, тіло, яке доведеться прибрати, і ризик чуми для всіх поблизу місця падіння. Вимкніть цю опцію, якщо це надто жорстоко для вашої колонії.</RimSiege_SetCarrionTip>
+  <RimSiege_SetWarband>Розмір облогового загону: ×{0} очок загрози</RimSiege_SetWarband>
+  <RimSiege_SetPushers>Кількість тих, хто штовхає одну машину: {0}</RimSiege_SetPushers>
+  <RimSiege_SetCaptainRout>Втеча війська після загибелі капітана</RimSiege_SetCaptainRout>
+  <RimSiege_SetCaptainRoutTip>Якщо вбити капітана (у позолоченому шоломі з модом Medieval Overhaul) до утворення пролому, усе облогове військо втече.</RimSiege_SetCaptainRoutTip>
+  <RimSiege_SetDanegeld>Фракції пам'ятають (данегельд)</RimSiege_SetDanegeld>
+  <RimSiege_SetDanegeldTip>Сплатіть данину — і ця фракція повернеться по нову, запросивши більшу суму. Розгроміть облогове військо — і звістка пошириться: до наступної облоги мине значно більше часу.</RimSiege_SetDanegeldTip>
+  <RimSiege_SetRansom>За капітанів можна отримати викуп (або помститися за них)</RimSiege_SetRansom>
+  <RimSiege_SetRansomTip>Захопіть облогового капітана живим — і його рід запропонує срібло за його повернення. Стратіть капітана, зрадьте загін для перемовин або дозвольте капітанові померти у вашій в'язниці — і вони присягнуть на помсту: наступна облога почнеться раніше, буде запеклішою та без ультиматуму. Звільніть капітана без викупу — і вони на певний час залишать ваші мури в спокої.</RimSiege_SetRansomTip>
+
+</LanguageData>
